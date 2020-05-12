@@ -1,0 +1,20 @@
+1.Question 1
+One of these statements below is true and the other three are false. Which one is true?
+
+A)Every variable in C++ has to be associated with a specific type
+
+
+Explanation-
+
+C++ is “strongly typed” which means that the type of every variable is assigned when the variable is declared, and the type of a variable cannot change once the variable is declared.
+
+2.Question 2
+According to the C++ standard, what is the name of the function is the starting point for a program?
+
+A)main()
+
+
+Explaination -
+When you write a C++ program, the program begins when the operating system calls the function “main().”
+
+
